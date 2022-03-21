@@ -1,1 +1,1 @@
-second readme
+project given by alx school
